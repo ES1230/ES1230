@@ -21,7 +21,7 @@ https://github.com/Envoy-VC/awesome-badges
 -->
 
 <div align="center">
-Hello I'm EunSeon 😊 
+<strong>Hello I'm EunSeon 😊 </strong>
 </div>
   
 ###
