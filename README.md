@@ -15,15 +15,18 @@ Here are some ideas to get you started:
 https://github.com/Envoy-VC/awesome-badges
 
 ![ES1230's github stats](https://github-readme-stats.vercel.app/api?username=ES1230&show_icons=true&theme=gruvbox)
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ES1230&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
 
-<div align="center"></div>
+<div align="center">
+Hello I'm EunSeon 😊 
+</div>
   
-### Hello I'm ES1230 😊 
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ES1230&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-    
+###
+
+#
 
     
 #### 📚 Studying
@@ -32,7 +35,6 @@ https://github.com/Envoy-VC/awesome-badges
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-  
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -40,6 +42,6 @@ https://github.com/Envoy-VC/awesome-badges
 
 #### ✨ GitHub Status
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=ES1230&theme=dark&border_radius=15)](https://git.io/streak-stats)  
-  
-  
+[![GitHub Streak](https://streak-stats.demolab.com?user=ES1230&theme=dark&border_radius=15)](https://git.io/streak-stats)
+
+
