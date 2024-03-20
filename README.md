@@ -12,22 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-https://github.com/Envoy-VC/awesome-badges
-
 ![ES1230's github stats](https://github-readme-stats.vercel.app/api?username=ES1230&show_icons=true&theme=gruvbox)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ES1230&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+https://github.com/Envoy-VC/awesome-badges
 
 -->
 
-<div align="center">
-<strong>Hello I'm EunSeon 😊 </strong>
-</div>
-  
-###
+<div align="center"></div>
+<strong> Hello I'm EunSeon 😊 </strong>
 
 #
-
     
 #### 📚 Studying
   
@@ -42,6 +36,7 @@ https://github.com/Envoy-VC/awesome-badges
 
 #### ✨ GitHub Status
   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ES1230&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
 [![GitHub Streak](https://streak-stats.demolab.com?user=ES1230&theme=dark&border_radius=15)](https://git.io/streak-stats)
-
 
