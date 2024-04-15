@@ -39,6 +39,6 @@ https://github.com/Envoy-VC/awesome-badges
 #### ✨ GitHub Status
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=ES1230&theme=dark&border_radius=13)](https://git.io/streak-stats) 
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ES1230&langs_count=10&layout=compact&theme=dark&border_radius=13)](https://github.com/jogilsang/jogilsang)﻿
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ES1230&langs_count=10&layout=compact&theme=dark&border_radius=13)](https://github.com/ES1230/ES1230)﻿
 
 
