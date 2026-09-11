@@ -28,6 +28,7 @@ https://github.com/Envoy-VC/awesome-badges
 #### 📚 Study
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/MsSQL-005C84?style=for-the-badge&logo=mssql&logoColor=white)
 ![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 ![MARIADB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -42,6 +43,5 @@ https://github.com/Envoy-VC/awesome-badges
 #### ✨ GitHub
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=ES1230&theme=dark&border_radius=13)](https://git.io/streak-stats) 
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ES1230&langs_count=10&layout=compact&theme=dark&border_radius=13)](https://github.com/ES1230/ES1230)﻿
 
 
